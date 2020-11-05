@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OklmzgE20rrxZjKMx0JZfHN7++6cExLb8GHZTQ23uG4vRUWskNP0RPrdK3/9SQyjtyGSw8ElejCfNGzsgner5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicchl01\\Downloads\\projects\\OOP\\acm\\Acme.Common\\Acme.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicchl01\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nicchl01\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
